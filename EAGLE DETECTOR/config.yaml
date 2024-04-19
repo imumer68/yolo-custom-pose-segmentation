@@ -1,0 +1,10 @@
+path: D:/Python Stuff/Datasets/Umer
+train: images/train
+val: images/val
+# classes
+names:
+  - Umer
+  - Khan
+  - Other
+  - All
+nc: 4
